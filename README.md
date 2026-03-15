@@ -3,13 +3,11 @@
 > A fully on-device AI second brain for Android. Records your voice, transcribes it with Whisper, extracts structured memory with Gemma 3, and lets you query everything through a local chat interface — zero cloud, zero latency, zero data leaving your phone.
 
 <p align="center">
-  <img src="preview.png" width="80%" alt="Genesis app preview" />
-</p>
-
-<p align="center">
-  <img src="gallery.jpg" width="45%" alt="Screenshot 1" />
+  <img src="preview.png" width="30%" alt="Genesis app preview" />
   &nbsp;&nbsp;
-  <img src="gallery2.jpg" width="45%" alt="Screenshot 2" />
+  <img src="gallery.jpg" width="30%" alt="Screenshot 1" />
+  &nbsp;&nbsp;
+  <img src="gallery2.jpg" width="30%" alt="Screenshot 2" />
 </p>
 
 ---
